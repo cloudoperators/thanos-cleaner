@@ -3,7 +3,6 @@
 Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template.
 
 ## To-Do
-
 In case you are the maintainer of a new SAP open source project, these are the steps to do with the template files:
 
 - Check if the default license (Apache 2.0) also applies to your project. A license change should only be required in exceptional cases. If this is the case, please change the [license file](LICENSE).
